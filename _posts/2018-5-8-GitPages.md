@@ -1,6 +1,6 @@
 ---
 title: GitPages
-layout: post
+layout: blog
 ---
 
 
