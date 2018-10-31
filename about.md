@@ -15,10 +15,10 @@ As a sort of personal record; and since I've basically started from scratch, her
 <ul>
 <li>PC: Sony VAIO VGN-NS328J - Serenity (laptop)</li>
 <ul>
-<li>-CPU: Pentium T4200</li>
+<li>CPU: Pentium T4200</li>
 <li>RAM: 3GB</li>
 <li>HDD: 300GB</li>
-<li>OS: Linux Mint 18.3 (Sylvia) with the Cinnamon desktop</li>
+<li>OS: Linux Mint 19 with the Cinnamon desktop</li>
 </ul><li>-Dell 19" Pro display</li>
 <li>Various Logitech Peripherals</li></ul>
 <ul>
