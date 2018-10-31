@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-At the age of 38, with a relationship failure as catalyst for change, I decided to jump back into digital creativity.  I spent my formative years learning how to break things in code, or learning enough to just get by.<br />
+At the age of 37, with a relationship failure as catalyst for change, I decided to jump back into digital creativity.  I spent my formative years learning how to break things in code, or learning enough to just get by.<br />
 This time, however, I'm doing this the right way.  Learning from the ground up and not just dipping a toe; rather diving headlong into the sea.<br />
 Herein, I hope to share some of my experiences, realizations, and frustrations as I reacquaint myself with all aspects of technology.
 
